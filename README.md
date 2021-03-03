@@ -4,3 +4,4 @@
 ## Data Wrangling Case: Coal Consumption
 
 ## Data Wrangling Case: Water Quality
+
